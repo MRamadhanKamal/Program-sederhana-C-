@@ -3,7 +3,7 @@ using namespace std;
 
 void depan(){
 	cout<<"----------------------------------------------------"<<endl;
-	cout<<"\t\tSURYA MINIMARKE"<<endl;
+	cout<<"\t\tSURYA MINIMARKET"<<endl;
 	cout<<"Jl.Gatot Subroto No.14, Labuhan Ratu, Bandar Lampung"<<endl;
 	cout<<"----------------------------------------------------"<<endl;
 } 
